@@ -1,1 +1,1 @@
-# gh-copilot-workshop
+# GitHub Copilot workshop
