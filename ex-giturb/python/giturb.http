@@ -1,0 +1,6 @@
+@giturb_HostAddress = http://localhost:8000
+
+GET {{giturb_HostAddress}}/urbs/
+Accept: application/json
+
+###
