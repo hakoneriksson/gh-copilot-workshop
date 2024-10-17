@@ -1,0 +1,8 @@
+{
+    "github.copilot.chat.experimental.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.experimental.codeGeneration.instructions": [
+        // {
+        //     "file": ".github/code-style.md"
+        // }
+    ]
+}
