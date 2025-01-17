@@ -5,6 +5,7 @@
 - Introduction to GitHub Copilot
   - Overview of GitHub Copilot products
   - Deep dive into architecture and data pipeline
+  - Security features
   - Overview of LLMs used and limitations
   - Alternative & complimentary tools
 - Practical examples using GitHub Copilot
