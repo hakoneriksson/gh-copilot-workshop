@@ -1,4 +1,5 @@
 {
+    "liveServer.settings.root": "/docs",
     "github.copilot.chat.experimental.codeGeneration.useInstructionFiles": false,
     "github.copilot.chat.experimental.codeGeneration.instructions": [
         // {
