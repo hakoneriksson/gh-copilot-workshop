@@ -1,11 +1,7 @@
 # GitHub Copilot Introduction
 
 - What is GitHub Copilot
-- Quick look in IDE
 - Architecture
-  - Prompt Completion Pipeline
-  - Models Used
-  - Context Limitations
 
 ---
 
@@ -31,25 +27,6 @@
 
 </div>
 ---
-<!-- 
-
-# GitHub Copilot in the CLI
-
-*Login and install*
-  ```shell
-  gh auth login
-  gh extension install github/gh-copilot
-  ```
-
-
-<img src="images/github-copilot-cli.png" width="50%">
-
-*[Link to prerequisites](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli)*
-
-
-
-
--->
 
 # GitHub Copilot Architecture
 
@@ -63,7 +40,7 @@
 
 ---
 
-# Prompt Completion Pipeline
+# LLM - Prompt Completion
 
 ![image](/images/prompt-engineering-language-model.jpg) <!-- .element style="float: right" width="50%"-->
 
@@ -254,7 +231,7 @@ You can only give one reply for each conversation turn.
 
 ---
 
-# GitHub Copilot Inline IDE request
+# GitHub Copilot Inline - Request
 
 <div style="width: 51%; float: left">
   <img src="images/calculator-py.png">

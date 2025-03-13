@@ -13,7 +13,8 @@ Prompt:
 
 # Outline
 
-- GitHub Copilot
-  - Introduction
-  - Next 
-
+- GitHub Copilot Introduction
+- GitHub Copilot Next
+  - Code Review
+  - Extensions
+  - Workspace - Agentic dev environment
