@@ -13,27 +13,20 @@
 --- 
 
 # Extentions
-*Copilot agents and skills*
-
-![alt text](images/next/extensions-agent.drawio.svg)
-
----
-
-# Extentions
-*Copilot agents and skills*
+*Copilot agent with skills*
 
 ![alt text](images/next/extensions-skillset.drawio.svg)
 
 ---
 
-# Extentions - 
-*Copilot agents and skills*
+# Extentions
+*Copilot custom agent*
 
-![alt text](images/next/agents.drawio.svg)
+![alt text](images/next/extensions-agent.drawio.svg)
 
 ---
 
-# Extentions
+# Extentions - Agents
 *Copilot agents and skills*
 
 ![alt text](images/next/agents.drawio.svg)
