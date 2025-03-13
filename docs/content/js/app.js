@@ -5,7 +5,12 @@ import 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/plugin/notes/note
 
 Reveal.initialize({
     history: true,
-    transition: 'linear',
+     // Transition style
+    transition: 'fade', // none/fade/slide/convex/concave/zoom
+    // Transition speed
+    transitionSpeed: 'slow', // default/fast/slow
+    // Transition style for full page slide backgrounds
+    backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
     plugins: [ RevealMarkdown, RevealHighlight, RevealNotes  ],
     width: 1200
     
